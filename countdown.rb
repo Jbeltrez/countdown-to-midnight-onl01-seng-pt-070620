@@ -10,6 +10,6 @@ def countdown(number)
   end
 end 
 
-def countdown_with_sleep(num_seconds)
-  sleep(num_seconds.to_i.second)
+def countdown_with_sleep(num)
+  sleep(1.second)
 end 
