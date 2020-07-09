@@ -9,4 +9,5 @@ def countdown(x = number.to_i)
 end 
 
 def countdown_with_sleep 
+  sleep.1second
 end 
