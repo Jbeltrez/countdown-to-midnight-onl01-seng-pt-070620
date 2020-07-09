@@ -9,5 +9,5 @@ def countdown(x = number.to_i)
 end 
 
 def countdown_with_sleep 
-  sleep1.second
+  sleep(1.second)
 end 
