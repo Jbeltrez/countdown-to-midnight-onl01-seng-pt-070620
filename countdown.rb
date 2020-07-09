@@ -7,3 +7,6 @@ def countdown(x = number.to_i)
   if x == 0 
     "HAPPY NEW YEAR!"
 end 
+
+def countdown_with_sleep 
+end 
